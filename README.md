@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-sin-fin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-sin-fin/) |
+| **Get License** | [Commercial Licensing for Besos sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-sin-fin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `29db1eda0904f05e42899185b8cc88ca8fc177b567b0f3dd4831bf053d399902` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

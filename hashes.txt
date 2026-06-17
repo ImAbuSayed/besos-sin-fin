@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos sin fin
+
+This log tracks the cryptographic history and versioning for the song **Besos sin fin** (besos-sin-fin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:58:36.178394 | `v1` | `29db1eda0904f05e42899185b8cc88ca8fc177b567b0f3dd4831bf053d399902` | `5495ef9d501fe4d07d765cf9b8269c02d2fd956df7c742c110f7cb2aff63d60b` | `2026-06-17_besos-sin-fin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
