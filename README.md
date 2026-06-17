@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-sin-fin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-sin-fin/) |
+| **Get License** | [License this song: Besos sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-sin-fin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes dando vueltas por toda la ciudad, baby, tú y yo
+> Tus ojos me llaman, no hay casualidad, pierdo el control
+> Un beso tuyo y se enciende la noche, pura tensión
+> Dame un poquito más de esa magia, mi tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
